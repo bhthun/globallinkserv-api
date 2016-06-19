@@ -8,7 +8,7 @@ You can find connection public IP by connect to http://www.bhthun.tk/serv/netmet
 
 # API manual
 1. Make sure your software is connected to internet.
-2. Bind your software to connect with socket (tcp)
+2. Bind your software to connect with socket (tcp).
 3. Connect to serv2.bhthun.cf:5270
 4. Write from {"i": {"tarip": "[Your target public IP]", "data": "[You data that want to sent to target]" }} as string.
-5. Sent string in 4. to serv2.bhthun.cf:5270 by TCP sockets
+5. Sent string in 4. to serv2.bhthun.cf:5270 by TCP sockets.
